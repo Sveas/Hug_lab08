@@ -1,6 +1,6 @@
 // greeting.js
-function greeting() {
-	console.log("greeting");
+function greeting(name) {
+	return "Hello, "+name+"!";
 }
 
-greeting();
+module.exports = greeting;
