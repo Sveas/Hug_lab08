@@ -1,0 +1,23 @@
+{
+  "name": "hug_lab08",
+  "version": "1.0.0",
+  "description": "lab08 verkefni",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sveas/Hug_lab08.git"
+  },
+  "author": "Sveinn Arnar Stefansson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sveas/Hug_lab08/issues"
+  },
+  "homepage": "https://github.com/Sveas/Hug_lab08#readme",
+  "devDependencies": {
+    "jest": "^23.6.0"
+  }
+}
