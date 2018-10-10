@@ -5,7 +5,8 @@
   "main": "app.js",
   "scripts": {
     "test": "jest",
-    "start": "node app.js"
+    "start": "node app.js",
+    "clean": "rm -rf node_modules"
   },
   "repository": {
     "type": "git",
